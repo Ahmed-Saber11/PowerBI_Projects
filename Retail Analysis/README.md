@@ -1,8 +1,8 @@
 # Project Overview
 
-This project performs an **end-to-end analysis of supermarket sales data** using **Power BI** and **KNIME**.  
-It covers the complete data analytics lifecycle, including **ETL**, **data modeling**, **business intelligence dashboards**, **exploratory data analysis (EDA)**, and **machine learning regression models** for sales prediction.
-The main objective is to extract **actionable insights** from retail data and evaluate machine learning models for predicting sales performance.
+This project performs an **end-to-end analysis of supermarket sales data** using **Power BI**.  
+It covers the complete data analytics lifecycle, including **ETL**, **data modeling**, **business intelligence dashboards**, **exploratory data analysis (EDA)**.
+The main objective is to extract **actionable insights** from retail data.
 
 ---
 
